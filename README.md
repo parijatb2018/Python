@@ -1,5 +1,4 @@
 # Python
-Python Coding
 This ipynb file includes codes for the following games:
 - Tic-Tac-Toe
 - Hangman
